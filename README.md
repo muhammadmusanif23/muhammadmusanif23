@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhammad Musanif
+## Hi there  I'm Muhammad Musanif
 
 **Web Developer** with a strong Computer Science background.  
 I enjoy building **modern, responsive websites** using both **custom coding** and **WordPress**, while also having hands-on academic experience in Machine Learning, Blockchain, and core CS concepts.
