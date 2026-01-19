@@ -1,44 +1,87 @@
-## Hi there  I'm Muhammad Musanif
+<h1 align="center">Hi 👋, I'm Muhammad Musanif</h1>
+<h3 align="center">Computer Science Student | Beginner Web Developer | AI Enthusiast</h3>
 
-**Web Developer** with a strong Computer Science background.  
-I enjoy building **modern, responsive websites** using both **custom coding** and **WordPress**, while also having hands-on academic experience in Machine Learning, Blockchain, and core CS concepts.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadmusanif23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-### I’m currently working on
-- Web development projects using **HTML, CSS, JavaScript,**
-- **WordPress websites** 
-- Improving UI/UX and website performance
+---
 
-### I’m currently learning
-- Advanced **JavaScript** and modern web practices
-- Backend concepts and database integration
-- Better code structure and scalable web applications
+## 👨‍🎓 About Me
+🎓 Computer Science student at **University of Engineering and Technology Peshawar (UETP)**  
+📍 From **Peshawar, Pakistan**
 
-### I’m looking to collaborate on
-- Web development projects (frontend, backend, or WordPress)
-- Small business or portfolio websites
-- Open-source web projects
+I am a passionate learner who enjoys building projects and improving my skills step by step.  
+Currently focusing on **Web Development** and **Artificial Intelligence** through academic and self-learning projects.
 
-### I’m looking for help with
-- Advanced backend development
-- Best practices for scalable web applications
-- Professional WordPress development workflows
+---
 
-### Ask me about
-- Web Development (HTML, CSS, JavaScript, PHP)
-- WordPress development & customization
-- Git & GitHub
-- Core Computer Science subjects
+## 🛠️ Skills & Technologies
+### 👨‍💻 Programming Languages
+- C++
+- Java
+- JavaScript
+- Python
 
-### Technical Skills
-- **Web:** HTML, CSS, JavaScript, PHP
-- **CMS:** WordPress (Themes, Plugins, Customization)
-- **Programming Languages:** C++, Java, JavaScript
-- **CS Concepts:** Data Structures, Automata Theory, Design & Analysis of Algorithms
-- **Other:** Machine Learning (academic), Blockchain & Solidity (basics)
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript (Beginner)
 
-### How to reach me
-- GitHub: [@muhammadmusanif23](https://github.com/muhammadmusanif23)
-- Email: *(muhammadmusanif320@gmail.com)*
+### 📚 Core CS Concepts
+- Data Structures  
+- Design & Analysis of Algorithms  
 
-### Fun fact
-- I like combining **strong CS fundamentals** with **practical web development** to build real-world solutions 🚀
+### 🧰 Tools
+- Git
+- GitHub
+
+---
+
+## 📌 Projects
+### 🌱 Plant Disease Detection (AI)
+- AI-based semester project
+- Detects plant diseases using image processing & ML concepts
+
+### 🌐 Frontend Web Projects
+- Practice & semester projects
+- Built with **HTML, CSS, and JavaScript**
+
+---
+
+## 📈 Currently Learning
+- Advanced JavaScript
+- Frontend development best practices
+- Problem-solving & DSA
+- AI & Machine Learning fundamentals
+
+---
+
+## 🤝 Looking To
+- Collaborate on beginner-friendly projects
+- Contribute to open source
+- Gain real-world development experience
+
+---
+
+## 📫 Connect With Me
+- 📱 Phone: **+92-3337292138**
+- 📧 Email: **muhammadmusanif320@gmail.com**
+- 💼 LinkedIn: **Muhammad Musanif**
+- 🐙 GitHub: [muhammadmusanif23](https://github.com/muhammadmusanif23)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusanif23&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusanif23&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning academic ideas into real projects and learning new technologies one step at a time 🚀
